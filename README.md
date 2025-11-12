@@ -1,2 +1,3 @@
-# E-Commerce-Sales-Analysis
+# E-Commerce-Sales-Analysis (Interactive Dashboard Creation Using Power Bi)
+# Project Objective
 Developed an interactive Power BI dashboard to analyze e-commerce sales performance, tracking KPIs like YOY Sales, Profit, Quantity, and Profit Margin. Used Power Query and DAX for data cleaning, transformation, and KPI calculations to provide actionable business insights.
